@@ -1,0 +1,3 @@
+[submodule "python-jmdict"]
+	path = python-jmdict
+	url = git@github.com:jaseg/python-jmdict.git
